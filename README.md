@@ -1,2 +1,2 @@
-# ACCT655_AVI_Project
-ACCT655 Analytics for Value Investing Project
+# ACCT656_AVI_Project
+ACCT656 Analytics for Value Investing Project
